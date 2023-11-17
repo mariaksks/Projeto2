@@ -33,14 +33,14 @@ May the force be with you!
 |<br>
 |-->documentos<br>
   &emsp;|-->antigos<br>
-  &emsp;|Documentação.docx<br>
+  &emsp;|GRUPO 02 - CCOMP - Projetos de Extensão.docx<br>
 |-->executáveis<br>
   &emsp;|-->windows<br>
   &emsp;|-->android<br>
   &emsp;|-->HTML<br>
 |-->imagens<br>
 |-->src<br>
-  &emsp;|-->Backend<br>
+  &emsp;|-->PI_ODS2v1.2<br>
 |readme.md<br>
 
 A pasta raiz contem dois arquivos que devem ser alterados:
